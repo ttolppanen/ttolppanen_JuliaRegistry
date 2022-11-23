@@ -4,3 +4,4 @@ repo = "https://github.com/ttolppanen/ttolppanen_JuliaRegistry.git"
 description = "My private registry"
 
 [packages]
+0a1581c1-ab82-4660-a1be-26f7b3483457 = { name = "QuantumStates", path = "Q/QuantumStates" }
