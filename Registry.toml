@@ -5,3 +5,4 @@ description = "My private registry"
 
 [packages]
 0a1581c1-ab82-4660-a1be-26f7b3483457 = { name = "QuantumStates", path = "Q/QuantumStates" }
+c0e07f3f-1bc3-43ad-95cf-312e5bf06829 = { name = "QuantumOperators", path = "Q/QuantumOperators" }
