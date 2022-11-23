@@ -1,0 +1,6 @@
+name = "Private"
+uuid = "f70c07e9-65f7-438f-a1be-b4d851a74c01"
+repo = "https://github.com/ttolppanen/ttolppanen_JuliaRegistry.git"
+description = "My private registry"
+
+[packages]
