@@ -9,3 +9,6 @@ QuantumStates = "0a1581c1-ab82-4660-a1be-26f7b3483457"
 
 ["0.1.2-0"]
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+["0.4-0"]
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
