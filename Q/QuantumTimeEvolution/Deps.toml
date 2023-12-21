@@ -12,3 +12,8 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
 ["0.4-0"]
 Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+
+["0.6.1-0"]
+ChunkSplitters = "ae650224-84b6-46f8-82ea-d812ca08434e"
+ExponentialUtilities = "d4d017d3-3776-5f7e-afef-a10c40355c18"
+FastClosures = "9aa1b823-49e4-5ca5-8b0f-3971ec8bab6a"
