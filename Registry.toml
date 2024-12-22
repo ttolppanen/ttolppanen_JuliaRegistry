@@ -8,4 +8,5 @@ description = "My private registry"
 17f9de49-761f-4084-9189-3237cc0765fb = { name = "PlotAndSave", path = "P/PlotAndSave" }
 59e4b0ad-08a5-4ebc-afae-402296ac7198 = { name = "MIPTDataProcessing", path = "M/MIPTDataProcessing" }
 7373133c-a6f7-4e95-971a-e453f442ca60 = { name = "QuantumTimeEvolution", path = "Q/QuantumTimeEvolution" }
+8747772e-c7e0-4110-92c5-e6bdb4ce5b89 = { name = "QuantumTimes", path = "Q/QuantumTimes" }
 c0e07f3f-1bc3-43ad-95cf-312e5bf06829 = { name = "QuantumOperators", path = "Q/QuantumOperators" }
